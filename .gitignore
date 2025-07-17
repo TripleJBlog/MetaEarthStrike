@@ -75,6 +75,9 @@ APIUpdater/
 # Ignore generated BurstCache
 BurstCache/
 
+# Ignore Visual Studio Code settings
+.vscode/
+
 # Ignore Unity Assets folder except Scripts
 Assets/*
 !Assets/Scripts/
